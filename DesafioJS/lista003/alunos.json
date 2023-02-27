@@ -1,0 +1,362 @@
+[
+    {
+      "email": "ajgv@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0001",
+      "nome": "Alice Jéssica Giovanna Vieira",
+      "nascimento": "04/07/1999",
+      "sexo": "Feminino",
+      "naturalidade": "Petrolina - PE",
+      "turma": 0
+    },
+    {
+      "email": "amar@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0002",
+      "nome": "Alícia Mariana Ayla da Rocha",
+      "nascimento": "12/08/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "cecd@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0003",
+      "nome": "Carlos Eduardo Caleb Dias",
+      "nascimento": "20/02/2000",
+      "sexo": "Masculino",
+      "naturalidade": "Olinda - PE",
+      "turma": 0
+    },
+    {
+      "email": "dmaj@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0004",
+      "nome": "Débora Marcela Andrea Jesus",
+      "nascimento": "14/02/2000",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "dnn2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0005",
+      "nome": "Diego Noah Nascimento",
+      "nascimento": "27/02/2000",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "erm3@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0006",
+      "nome": "Eliane Rosa Monteiro",
+      "nascimento": "15/02/2000",
+      "sexo": "Feminino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "ehn1@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0007",
+      "nome": "Ester Heloisa das Neves",
+      "nascimento": "18/02/2000",
+      "sexo": "Feminino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "gdv2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0008",
+      "nome": "Gabrielly Flávia dos Santos",
+      "nascimento": "09/02/2000",
+      "sexo": "Feminino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "hed1@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0009",
+      "nome": "Hugo Erick Drumond",
+      "nascimento": "01/02/2000",
+      "sexo": "Masculino",
+      "naturalidade": "Recife - PE",
+      "turma": 0
+    },
+    {
+      "email": "iar3@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0010",
+      "nome": "Ian Augusto Rezende",
+      "nascimento": "07/02/2000",
+      "sexo": "Masculino",
+      "naturalidade": "Olinda - PE",
+      "turma": 0
+    },
+    {
+      "email": "jes3@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0011",
+      "nome": "Juan Emanuel Santos",
+      "nascimento": "22/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "jmnc@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0012",
+      "nome": "Juan Miguel Noah da Costa",
+      "nascimento": "15/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "maln@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0013",
+      "nome": "Marlene Antônia Lavínia Nunes",
+      "nascimento": "09/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "mcc5@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0014",
+      "nome": "Melissa Cristiane Castro",
+      "nascimento": "09/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Recife - PE",
+      "turma": 0
+    },
+    {
+      "email": "nhm2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0015",
+      "nome": "Nelson Henry Mendes",
+      "nascimento": "06/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "rtyl@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0016",
+      "nome": "Ricardo Theo Yuri Lopes",
+      "nascimento": "01/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "sdc3@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0017",
+      "nome": "Samuel Danilo Costa",
+      "nascimento": "01/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Belo Jardim - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "tchm@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0019",
+      "nome": "Thiago Caleb Heitor Moreira",
+      "nascimento": "21/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Recife - PE",
+      "turma": 0
+    },
+    {
+      "email": "tcer@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0020",
+      "nome": "Tiago Cauã Elias Rocha",
+      "nascimento": "08/09/2022",
+      "sexo": "Masculino",
+      "naturalidade": "Recife - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    },
+    {
+      "email": "scb2@discente.ifpe.edu.br",
+      "matricula": "20222MTFS0018",
+      "nome": "Sandra Carolina Barbosa",
+      "nascimento": "03/09/2022",
+      "sexo": "Feminino",
+      "naturalidade": "Paulista - PE",
+      "turma": 0
+    }
+  ]
